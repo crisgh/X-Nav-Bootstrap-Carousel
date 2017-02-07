@@ -23,4 +23,4 @@ que incluya todos los elementos en local (o vía CDN) para que se pueda ver la
 web resultante.
 
 ## Resuelto
-[Try me](https://github.com/crisgh/X-Nav-Bootstrap-Carousel/)
+[Try me](https://crisgh.github.io/X-Nav-Bootstrap-Carousel/)
